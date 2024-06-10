@@ -11,6 +11,7 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 ## A
 
 - <a href="https://github.com/alkhanet26" target="_blank">Alkhanet26</a>
+- <a href="https://github.com/armbian" target="_blank">armbian</a>
 
 ## B
 
@@ -60,6 +61,7 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 ## O
 
 - <a href="https://github.com/openwrt" target="_blank">openwrt</a>
+- <a href="https://github.com/ophub" target="_blank">ophub</a>
 
 ## P
 
@@ -72,7 +74,11 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 
 ## T
 
+- <a href="https://github.com/topjohnwu" target="_blank">topjohnwu</a>
+
 ## U
+
+- <a href="https://www.ubuntu.com/" target="_blank">ubuntu</a>
 
 ## V
 
