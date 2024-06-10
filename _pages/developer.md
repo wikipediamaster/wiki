@@ -34,6 +34,7 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 
 ## H
 
+- <a href="https://github.com/haproxy" target="_blank">haproxy</a>
 - <a href="https://github.com/haishanh" target="_blank">haishanh</a>
 - <a href="https://github.com/helmiau" target="_blank">Helmiau</a>
 
@@ -58,6 +59,8 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 
 ## O
 
+- <a href="https://github.com/openwrt" target="_blank">openwrt</a>
+
 ## P
 
 ## Q
@@ -65,6 +68,7 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 ## R
 
 - <a href="https://github.com/ryanfauzi1" target="_blank">Ryan Fauzi1</a>
+- <a href="https://github.com/r3yr3" target="_blank">r3yr3</a>
 
 ## T
 
@@ -78,6 +82,8 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 ## W
 
 ## X
+
+- <a href="https://github.com/xiaorouji" target="_blank">xiaorouji</a>
 
 ## Y
 
