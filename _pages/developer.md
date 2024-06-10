@@ -16,18 +16,25 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 
 ## C
 
+- <a href="https://github.com/ConnersHua" target="_blank">ConnersHua</a>
+
 ## D
 
+- <a href="https://github.com/Dreamacro" target="_blank">Dreamacro</a>
 - <a href="https://github.com/derisamedia" target="_blank">deri sahertian</a>
 
 ## E
 
 ## F
 
+- <a href="https://github.com/FQrabbit" target="_blank">FQrabbit</a>
+- <a href="https://github.com/frainzy1477" target="_blank">frainzy1477</a>
+
 ## G
 
 ## H
 
+- <a href="https://github.com/haishanh" target="_blank">haishanh</a>
 - <a href="https://github.com/helmiau" target="_blank">Helmiau</a>
 
 ## I
@@ -40,10 +47,14 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 
 ## L
 
+- <a href="https://github.com/lmc999" target="_blank">lmc999</a>
+- <a href="https://github.com/lhie1" target="_blank">lhie1</a>
 - <a href="https://github.com/lutfailham96" target="_blank">Lutfa Ibtihaji Ilham</a>
 - <a href="https://github.com/linux-mobile-broadband" target="_blank">Linux Mobile Broadband</a>
 
 ## M
+
+- <a href="https://www.maxmind.com/" target="_blank">Maxmind</a>
 
 ## O
 
