@@ -62,6 +62,7 @@ Semua sudah kami rangkumkan menjadi satu halaman ini untuk memudahkan anda dalam
 ## V
 
 - <a href="https://github.com/vitoharhari" target="_blank">vitoharhari</a>
+- <a href="https://github.com/vernesong" target="_blank">vernesong</a>
 
 ## W
 
